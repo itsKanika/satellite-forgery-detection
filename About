@@ -1,0 +1,23 @@
+About Our Project
+In an era where digital manipulation is more sophisticated than ever, ensuring the authenticity of satellite images is crucial for security, disaster management, environmental monitoring, and defense. Our AI-powered Satellite Image Forgery Detection Web App is designed to tackle this challenge by identifying tampered satellite images using cutting-edge artificial intelligence techniques.
+
+Our Mission
+Our project aims to provide a reliable and accessible solution for detecting forged satellite images. By leveraging deep learning models, we analyze satellite images for inconsistencies, ensuring that critical decisions are based on genuine and unaltered data.
+
+Key Features
+✅ Forgery Detection – Identifies anomalies and tampering in satellite images using AI-powered analysis.
+✅ Real-time Processing – Provides quick and accurate results with minimal processing time.
+✅ User-Friendly Web Interface – Allows users to upload images and receive detailed forgery analysis reports.
+✅ Open-Source & Free – Built with a minimal tech stack, avoiding paid APIs while maintaining high efficiency.
+
+Why This Matters
+Fake satellite imagery can be used to spread misinformation, manipulate geopolitical narratives, or mislead organizations. Our tool ensures authenticity, making it a valuable resource for researchers, journalists, and government agencies.
+
+Technology Stack
+🚀 AI & Machine Learning – Convolutional Neural Networks (CNNs) for forgery detection.
+🌐 Web Framework – Flask/React for the frontend and backend.
+💾 Data Processing – Open-source satellite datasets for training our model.
+
+This project is our contribution to AI & Cybersecurity, ensuring truth and reliability in satellite imagery.
+
+
